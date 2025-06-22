@@ -1,0 +1,29 @@
+{
+  "personas": [
+    {
+      "nombre": "Carlos",
+      "apellido": "Ramírez",
+      "correo": "carlos.ramirez@example.com"
+    },
+    {
+      "nombre": "Lucía",
+      "apellido": "Mendoza",
+      "correo": "lucia.mendoza@example.com"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Fernández",
+      "correo": "pedro.fernandez@example.com"
+    },
+    {
+      "nombre": "Sofía",
+      "apellido": "García",
+      "correo": "sofia.garcia@example.com"
+    },
+    {
+      "nombre": "Diego",
+      "apellido": "Martínez",
+      "correo": "diego.martinez@example.com"
+    }
+  ]
+}
